@@ -20,6 +20,7 @@ const Navbar = () => {
     { name: 'About', to: 'about' },
     { name: 'How it Works', to: 'how-it-works' },
     { name: 'Features', to: 'features' },
+    { name: 'Gallery', to: 'gallery' },
     { name: 'Why Us', to: 'why-us' },
   ];
 

@@ -4,6 +4,7 @@ import Hero from './components/Hero';
 import About from './components/About';
 import HowItWorks from './components/HowItWorks';
 import Features from './components/Features';
+import Gallery from './components/Gallery';
 import WhyChooseUs from './components/WhyChooseUs';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
@@ -17,6 +18,7 @@ function App() {
         <About />
         <HowItWorks />
         <Features />
+        <Gallery />
         <WhyChooseUs />
         <Contact />
       </main>
